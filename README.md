@@ -1,0 +1,2 @@
+# semanaomnistack
+ projeto app DevRadar .
